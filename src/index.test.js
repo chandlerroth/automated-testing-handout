@@ -1,7 +1,7 @@
-const { sum } = require('./index.js');
+const { add } = require('./index.js');
 
-describe('sum', () => {
+describe('add', () => {
   it('should equal "3" when arguments are "1, 2"', () => {
-    expect(sum(1, 2)).toBe(3);
+    expect(add(1, 2)).toBe(3);
   });
 });
