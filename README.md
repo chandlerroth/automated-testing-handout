@@ -1,5 +1,7 @@
 # Automated Testing with Jest
 
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-hpbhjw)
+
 ## Setup
 
 Make sure you have Node.js installed (v16 preferred). You can use Hombrew, nodenv, nvm, or just installing from the [Node.js website](https://nodejs.org).
