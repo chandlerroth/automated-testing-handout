@@ -1,0 +1,11 @@
+{
+  "name": "tdd-handout",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
